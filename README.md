@@ -9,6 +9,8 @@ read-sms.py uses Python3 and serial library, so should work on RaspPi also.
 
 See  also YouTube video:
 
+https://youtu.be/KVI7BhXEJ3o
+
 https://youtube.com/c/martyndavies
 
 
