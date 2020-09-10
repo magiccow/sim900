@@ -14,3 +14,5 @@ https://youtu.be/KVI7BhXEJ3o
 https://youtube.com/c/martyndavies
 
 
+The SIM 800 and M590E GSM modules also have very similar AT command sets. The SMS receive code in this
+repo should be good for these modules also.
