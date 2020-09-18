@@ -7,16 +7,17 @@ your own Nexmo keys into sms.ini.
 
 read-sms.py uses Python3 and serial library, so should work on RaspPi also.
 
-See  also YouTube video:
+## See  also YouTube video:
 
-https://youtu.be/KVI7BhXEJ3o
+1. SIM900 module: https://youtu.be/KVI7BhXEJ3o
+2. Tutorial on the SIM800 module: https://youtu.be/8rqfPc8aRGc
+3. Tutorial on the M590 module: https://youtu.be/IB7JVZKDjyI
+
 
 https://youtube.com/c/martyndavies
 
 
-The SIM 800 and M590E GSM modules also have very similar AT command sets. The SMS receive code in this
-repo should be good for these modules also.
+The SIM 900, SIM 800 and M590E GSM modules have very similar AT command sets. The SMS receive code in this
+repo should be good for all these modules.
 
-See also: 
-Tutorial on the SIM800 module: https://youtu.be/8rqfPc8aRGc
-Tutorial on the M590 module: https://youtu.be/IB7JVZKDjyI
+
